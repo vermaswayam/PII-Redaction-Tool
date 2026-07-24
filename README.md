@@ -32,4 +32,4 @@ Render/Railway still works for the Flask app (`Procfile`) if you prefer that ins
 
 
 ### notes
-Same real string always maps to the same fake value. CIN / ticket ids / generic terms like "Equity Shares" are left alone on purpose. Scoring details are in `submission/Evaluation_Strategy_and_Metrics.docx`.
+Same real string always maps to the same fake value. CIN / ticket ids / generic terms like "Equity Shares" are left alone on purpose. Run `python evaluate.py` for precision/recall numbers.
