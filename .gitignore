@@ -8,11 +8,9 @@ venv/
 .idea/
 .vscode/
 
-# do not push the original prospectus (has real PII)
+# original docs — form uploads / local only, not for GitHub
 Red Herring Prospectus.docx
 Enterprise Data - Assignment.docx
+submission/
 
-# local run junk
-submission/redaction_summary.json
-submission/evaluation_metrics.json
 _prospectus_text.txt
