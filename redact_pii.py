@@ -22,7 +22,7 @@ from docx.text.paragraph import Paragraph
 # fake values — hashed so the same real string always maps to the same fake one
 FAKE_NAMES = [
     "John Doe",
-    "Peter Parker",  # same style as the assignment examples
+    "Peter Parker",
     "Anita Mehra",
     "Rahul Khanna",
     "Neha Kapoor",
