@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# do not push the original prospectus (has real PII)
+Red Herring Prospectus.docx
+Enterprise Data - Assignment.docx
+
+# local run junk
+submission/redaction_summary.json
+submission/evaluation_metrics.json
+_prospectus_text.txt
